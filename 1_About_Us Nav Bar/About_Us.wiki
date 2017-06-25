@@ -1,0 +1,31 @@
+<!--Logo-->
+[[Image:DuckyKingLogo.png|center]]<br>
+<!--Header Start-->
+{|style="background-color:#FFA30E; color:#F5F5F5; padding: 10 0 10 0;" width="100%" cellspacing="0" cellpadding="0" valign="top" border="0"  |
+| style="padding:0.3em; font-size:100%; background-color:#FFA30E;  border-bottom:0px solid #FFA30E; text-align:center; color:#F5F5F5" width="10%" | 
+[[Image:Duckyking_home_logo.png|30px|link=IS480 Team wiki: 2017T1 Ducky King]] &nbsp;
+[[IS480 Team wiki: 2017T1 Ducky King|<font color="#F5F5F5" size=2><b>HOME</b></font>]]
+<!-- Current Page -->
+| style="border-bottom:0px solid #FFCD24; background:none;" width="1%" | &nbsp; 
+| style="padding:0.3em; font-size:100%; background-color:#FF7504;  border-bottom:0px solid #FF8E0C; text-align:center; color:#F5F5F5" width="10%" | 
+[[Image:Duckyking_about_us.png|30px|link=IS480 Team wiki: 2017T1 Ducky King About Us]] &nbsp;
+[[IS480 Team wiki: 2017T1 Ducky King About Us|<font color="#F5F5F5" size=3><b>ABOUT US</b></font>]]
+
+| style="border-bottom:0px solid #FFCD24; background:none;" width="1%" | &nbsp;
+| style="padding:0.3em; font-size:100%; background-color:#FFA30E;  border-bottom:0px solid #FFA30E; text-align:center; color:#F5F5F5" width="12%" | 
+[[Image:Duckyking_project_overview.png|30px|link=IS480 Team wiki: 2017T1 Ducky King Description and Motivation]] &nbsp;
+[[IS480 Team wiki: 2017T1 Ducky King Description and Motivation|<font color="#F5F5F5" size=2><b>PROJECT OVERVIEW</b></font>]]
+
+| style="border-bottom:0px solid #FFCD24; background:none;" width="1%" | &nbsp;
+| style="padding:0.3em; font-size:100%; background-color:#FFA30E;  border-bottom:0px solid #FFA30E; text-align:center; color:#F5F5F5" width="12%" | 
+[[Image:Duckyking_project_management.png|30px|link=IS480 Team wiki: 2017T1 Ducky King Project Schedule]] &nbsp;
+[[IS480 Team wiki: 2017T1 Ducky King Project Schedule|<font color="#F5F5F5" size=2><b>PROJECT MANAGEMENT</b></font>]]
+
+| style="border-bottom:0px solid #FFCD24; background:none;" width="1%" | &nbsp;
+| style="padding:0.3em; font-size:100%; background-color:#FFA30E;  border-bottom:0px solid #FFA30E; text-align:center; color:#F5F5F5" width="10%" | 
+[[Image:Ducky_king_documentation.png|30px|link=IS480 Team wiki: 2017T1 Ducky King Personas and Scenario]] &nbsp;
+[[IS480 Team wiki: 2017T1 Ducky King Personas and Scenario| <font color="#F5F5F5" size=2><b>DOCUMENTATION</b></font>]]
+|} 
+<!--Header End-->
+
+[[File:DuckyKing About Us.png|center]]
