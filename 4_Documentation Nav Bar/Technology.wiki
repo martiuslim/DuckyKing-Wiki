@@ -51,8 +51,7 @@
 
 <!-- Main Content Start -->
 <br>
-<div style="background: #FF7504; padding: 15px; font-weight: bold; line-height: 0.3em; text-indent: 15px; font-size:18px; font-family:helvetica"><font color= #FFFFFF>Our Technology</font></div>
-<br>
+[[File:Ducky King Technology.png|center]]
 
 <!-- Insert the technological map here -->
 
@@ -66,4 +65,20 @@
 <br>
 [[Image:is480_ducky_king_smart_contract.jpg|800px|center]]
 <p width='100%' align='center'>Source: https://blockchainhub.net/smart-contracts/</p>
+<br>
+<div style="background: #FF7504; padding: 15px; font-weight: bold; line-height: 0.3em; text-indent: 15px; font-size:18px; font-family:helvetica"><font color= #FFFFFF>Whitepapers</font></div>
+{| class="wikitable" style="background-color:white;"
+|-
+! style="color:white; background-color:#FFA30E;" | S/N
+! style="color:white; background-color:#FFA30E;" | Paper 
+! style="color:white; background-color:#FFA30E;" | Url
+|-
+| 01.
+| Bitcoin
+| https://bitcoin.org/bitcoin.pdf
+|-
+| 02.
+| Ethereum
+| https://github.com/ethereum/wiki/wiki/White-Paper
+|}
 <!-- Main Content End -->
